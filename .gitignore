@@ -33,6 +33,8 @@
 
 # Local copies 
 *.*~
+*/**/#*
+*/**/.#*
 
 # CMake Files
 CMakeCache.txt
